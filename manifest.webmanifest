@@ -1,0 +1,15 @@
+{
+  "name": "Fight Friends",
+  "short_name": "Fight Friends",
+  "description": "Juego de peleas con 51 luchadores, 15 mapas, modo historia de 18 capítulos, VS local para 4 jugadores, bots, objetos y control de mando.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#14122b",
+  "theme_color": "#14122b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
